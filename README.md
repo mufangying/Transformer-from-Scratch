@@ -111,7 +111,7 @@ print(logits.shape)      # should be torch.Size([32, 12, 10000])
 
 ## 许可证
 
-本项目采用 [MIT License](./LICENSE.md) 开源协议。欢迎大家 fork、star 及参与贡献。
+本项目采用 MIT License 开源协议。欢迎大家 fork、star 及参与贡献。
 
 
 
@@ -214,4 +214,4 @@ print(logits.shape)      # should be torch.Size([32, 12, 10000])
 
 ## License
 
-This project is released under the [MIT License](./LICENSE.md).
+This project is released under the MIT License.
