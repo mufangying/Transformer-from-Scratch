@@ -48,20 +48,20 @@
 .
 ├── transformer/               	# 核心代码
 │   ├── positional_encoding.py 	# 正弦位置编码
-│   ├── MHA.py				   	# 多头注意力
-│   ├── FFN.py				   	# 前馈网络
-│   ├── Encoder.py				# 编码器
-│   ├── Decoder.py				# 解码器
+│   ├── MHA.py				   	      # 多头注意力
+│   ├── FFN.py				   	      # 前馈网络
+│   ├── Encoder.py				      # 编码器
+│   ├── Decoder.py				      # 解码器
 │   ├── create_padding_mask.py 	# 掩码生成函数
 │   ├── model.py               	# Transformer模型
-│   ├── test.py 				# 测试脚本
+│   ├── test.py 				        # 测试脚本
 │   └── transformer.ipynb      	# 完整实现
 ├── docs/
 │   ├── transformer_arxiv.pdf  	# 原论文
-│   ├── Exp-Report.md	  		# 实验报告文档
-│   └── code-disassembly.md  	# 代码拆解文档
+│   ├── Exp-Report.md	  		    # 实验报告文档
+│   └── code-disassembly.md  	  # 代码拆解文档
 ├── examples/
-│   └── exam.py     			# （欢迎来补充）
+│   └── exam.py     			      # （欢迎来补充）
 ├── LICENCE.md
 └── README.md
 ```
@@ -156,20 +156,20 @@ The code is organized exactly as in the paper and is heavily commented. A biling
 .
 ├── transformer/               	# 核心代码
 │   ├── positional_encoding.py 	# Sinusoidal Positional Encoding
-│   ├── MHA.py				   	# Multi-Head Attention
-│   ├── FFN.py				   	# Feed Forward NetWork
-│   ├── Encoder.py				# EncoderLayer & Encoder
-│   ├── Decoder.py				# DecoderLayer & Decoder
+│   ├── MHA.py				   	      # Multi-Head Attention
+│   ├── FFN.py				   	      # Feed Forward NetWork
+│   ├── Encoder.py				      # EncoderLayer & Encoder
+│   ├── Decoder.py				      # DecoderLayer & Decoder
 │   ├── create_padding_mask.py 	# Mask Function
 │   ├── model.py               	# Transformer Model
-│   ├── test.py 				# Testing Script
+│   ├── test.py 				        # Testing Script
 │   └── transformer.ipynb      	# Complete Implementation
 ├── docs/
 │   ├── transformer_arxiv.pdf  	# Original Paper
-│   ├── Lab-Report.md	  		# Lab Report
-│   └── code-disassembly.md  	# Code Disassembly
+│   ├── Lab-Report.md	  		    # Lab Report
+│   └── code-disassembly.md  	  # Code Disassembly
 ├── examples/
-│   └── exam.py     			# （欢迎来补充）
+│   └── exam.py     			      # （欢迎来补充）
 └── README.md
 ```
 
