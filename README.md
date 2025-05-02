@@ -46,13 +46,13 @@
 ## 文件结构
 ```
 .
-├── transformer/               	# 核心代码
-│   ├── positional_encoding.py 	# 正弦位置编码
-│   ├── MHA.py				   	      # 多头注意力
-│   ├── FFN.py				   	      # 前馈网络
-│   ├── Encoder.py				      # 编码器
-│   ├── Decoder.py				      # 解码器
-│   ├── create_padding_mask.py 	# 掩码生成函数
+├── transformer/                # 核心代码
+│   ├── positional_encoding.py  # 正弦位置编码
+│   ├── MHA.py                  # 多头注意力
+│   ├── FFN.py                  # 前馈网络
+│   ├── Encoder.py              # 编码器
+│   ├── Decoder.py              # 解码器
+│   ├── create_padding_mask.py  # 掩码生成函数
 │   ├── model.py               	# Transformer模型
 │   ├── test.py 				        # 测试脚本
 │   └── transformer.ipynb      	# 完整实现
