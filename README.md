@@ -4,6 +4,7 @@
 # Transformer‑from‑Scratch
 
 > 论文《Attention Is All You Need》的纯 PyTorch 复现 
+>
 > A clean PyTorch re‑implementation of the Transformer architecture described in *Attention Is All You Need*
 
 ---
