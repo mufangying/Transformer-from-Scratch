@@ -59,7 +59,7 @@
 │   └── Transformer.ipynb       # 完整实现
 ├── docs/
 │   ├── transformer_arxiv.pdf   # 原论文
-│   ├── Exp-Report.md           # 实验报告文档
+│   ├── Lab-Report.md           # 实验报告文档
 │   └── code‑dasm.md            # 代码拆解文档
 ├── examples/
 │   └── exam.py                 # （欢迎来补充）
