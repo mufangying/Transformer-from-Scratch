@@ -59,7 +59,7 @@
 │   └── Transformer.ipynb       # 完整实现
 ├── docs/
 │   ├── transformer_arxiv.pdf   # 原论文
-│   ├── Lab-Report.md           # 实验报告文档
+│   ├── Deep-Analysis.md        # 深度解析
 │   └── code‑dasm.md            # 代码拆解文档
 ├── examples/
 │   └── exam.py                 # （欢迎来补充）
@@ -167,7 +167,7 @@ The code is organized exactly as in the paper and is heavily commented. A biling
 │   └── Transformer.ipynb       # Complete Implementation
 ├── docs/
 │   ├── transformer_arxiv.pdf   # Original Paper
-│   ├── Lab-Report.md           # Lab Report
+│   ├── Deep-Analysis.md        # Deep Analysis
 │   └── code‑dasm.md            # Code Disassembly
 ├── examples/
 │   └── exam.py                 # （欢迎来补充）
